@@ -1,2 +1,4 @@
 # Crypto
-An RGB Imagee Encryption Algorithm using Arnold CatMaps and Chaotic Systems
+An RGB Image Encryption Algorithm using Arnold CatMaps and Chaotic Systems
+
+Written in MATLAB
